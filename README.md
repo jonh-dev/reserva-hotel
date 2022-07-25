@@ -1,6 +1,6 @@
 <h1 align="center"> Room Reservation </h1>
 
-<p align="center">Este projeto foi desenvolvido durante como exercicio para o Curso de JAVA Dev Superior.</p>
+<p align="center">Este projeto foi desenvolvido como exercicio para o Curso de JAVA Dev Superior.</p>
 
 <p align="center">
  <a href="#projeto">Projeto</a> •
